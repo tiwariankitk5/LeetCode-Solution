@@ -20,9 +20,14 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 ## Problem Index
 
+
 | # | Problem | Difficulty | Topics |
-|---|---|---|---|
-| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window |
+|---:|---|---|---|
+| 0003 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | — |
+| 0015 | [0015-3sum](./0015-3sum/README.md) | Medium | — |
+| 0023 | [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists/README.md) | Hard | — |
+| 0034 | [0034-find-first-and-last-position-of-element-in-sorted-array](./0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | — |
+| 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
 
 ## Goals
 
