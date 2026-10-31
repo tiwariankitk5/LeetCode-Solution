@@ -42,6 +42,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
