@@ -13,10 +13,10 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 1 |
+| Problems tracked | 5 |
 | Easy | 0 |
-| Medium | 1 |
-| Hard | 0 |
+| Medium | 4 |
+| Hard | 1 |
 
 ## Problem Index
 
