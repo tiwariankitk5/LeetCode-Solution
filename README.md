@@ -90,6 +90,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -98,9 +99,14 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
