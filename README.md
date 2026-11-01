@@ -46,54 +46,59 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Tournament Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
