@@ -1,1 +1,34 @@
-{"leetcode":{"easy":0,"hard":1,"medium":2,"shas":{"0015-3sum":{"README.md":"84e5854cd32cb65d06da712e6329d17566651913"},"0023-merge-k-sorted-lists":{"0023-merge-k-sorted-lists.java":"65f36962b80d1cd6c64493e52ab1916c907a83f1","README.md":"db6073167141f16dfc4b2e140fcc5f006994de35","difficulty":"hard"},"README.md":{"":"5c28c367c6e409937f55d95b82c8490b03a35efb"},"3665-twisted-mirror-path-count":{"3665-twisted-mirror-path-count.java":"bd2f192c334aa8aa2c62dc26f84ebb8c6a3d8a38","README.md":"31da2a6f482c410842917e984b6e557006ebabdb","difficulty":"medium"},"stats.json":{"":"afa5b704a384867a7a616a260dc55cfce0d464ee"},"0453-minimum-moves-to-equal-array-elements":{"0453-minimum-moves-to-equal-array-elements.java":"7e6e44c0fa3fb3e077a2817490982bc0254c77d2","README.md":"b7beea84eea5c720f4e5b103e7537c2e7bc18197","difficulty":"medium"}},"solved":3}}
+{
+  "leetcode": {
+    "easy": 0,
+    "hard": 1,
+    "medium": 5,
+    "shas": {
+      "0015-3sum": {
+        "README.md": "84e5854cd32cb65d06da712e6329d17566651913"
+      },
+      "0023-merge-k-sorted-lists": {
+        "0023-merge-k-sorted-lists.java": "65f36962b80d1cd6c64493e52ab1916c907a83f1",
+        "README.md": "db6073167141f16dfc4b2e140fcc5f006994de35",
+        "difficulty": "hard"
+      },
+      "README.md": {
+        "": "5c28c367c6e409937f55d95b82c8490b03a35efb"
+      },
+      "3665-twisted-mirror-path-count": {
+        "3665-twisted-mirror-path-count.java": "bd2f192c334aa8aa2c62dc26f84ebb8c6a3d8a38",
+        "README.md": "31da2a6f482c410842917e984b6e557006ebabdb",
+        "difficulty": "medium"
+      },
+      "stats.json": {
+        "": "afa5b704a384867a7a616a260dc55cfce0d464ee"
+      },
+      "0453-minimum-moves-to-equal-array-elements": {
+        "0453-minimum-moves-to-equal-array-elements.java": "7e6e44c0fa3fb3e077a2817490982bc0254c77d2",
+        "README.md": "b7beea84eea5c720f4e5b103e7537c2e7bc18197",
+        "difficulty": "medium"
+      }
+    },
+    "solved": 6
+  }
+}
