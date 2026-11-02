@@ -61,6 +61,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
