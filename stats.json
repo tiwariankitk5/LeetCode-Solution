@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 2,
+    "easy": 3,
     "hard": 2,
     "medium": 7,
     "shas": {
@@ -38,6 +38,6 @@
         "README.md": "d0e5a229257a811c50c7bcd689b492fe0a4082d2"
       }
     },
-    "solved": 11
+    "solved": 12
   }
 }

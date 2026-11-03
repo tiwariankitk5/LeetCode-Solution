@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 11 |
-| Easy | 2 |
+| Problems tracked | 12 |
+| Easy | 3 |
 | Medium | 7 |
 | Hard | 2 |
 
 ## Problem Index
+
 
 
 
@@ -43,6 +44,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
 | 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
+| 3736 | [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | — |
 
 ## Goals
 
