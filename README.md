@@ -133,6 +133,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -142,11 +143,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
