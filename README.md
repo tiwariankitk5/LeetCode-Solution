@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 12 |
-| Easy | 3 |
+| Problems tracked | 14 |
+| Easy | 4 |
 | Medium | 7 |
-| Hard | 2 |
+| Hard | 3 |
 
 ## Problem Index
+
 
 
 
@@ -39,10 +40,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0030 | [0030-substring-with-concatenation-of-all-words](./0030-substring-with-concatenation-of-all-words/README.md) | Hard | — |
 | 0034 | [0034-find-first-and-last-position-of-element-in-sorted-array](./0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | — |
 | 0070 | [0070-climbing-stairs](./0070-climbing-stairs/README.md) | Easy | — |
+| 0076 | [0076-minimum-window-substring](./0076-minimum-window-substring/README.md) | Hard | — |
 | 0131 | [0131-palindrome-partitioning](./0131-palindrome-partitioning/README.md) | Medium | — |
 | 0206 | [0206-reverse-linked-list](./0206-reverse-linked-list/README.md) | Easy | — |
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
+| 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
 | 3736 | [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | — |
 

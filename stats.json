@@ -1,7 +1,7 @@
 {
   "leetcode": {
-    "easy": 3,
-    "hard": 2,
+    "easy": 4,
+    "hard": 3,
     "medium": 7,
     "shas": {
       "0015-3sum": {
@@ -38,6 +38,6 @@
         "README.md": "d0e5a229257a811c50c7bcd689b492fe0a4082d2"
       }
     },
-    "solved": 12
+    "solved": 14
   }
 }
