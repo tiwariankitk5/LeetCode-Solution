@@ -65,6 +65,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
