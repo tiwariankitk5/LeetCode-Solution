@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 19 |
+| Problems tracked | 20 |
 | Easy | 6 |
-| Medium | 8 |
+| Medium | 9 |
 | Hard | 5 |
 
 ## Problem Index
+
 
 
 
@@ -54,6 +55,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 1385 | [1385-find-the-distance-value-between-two-arrays](./1385-find-the-distance-value-between-two-arrays/README.md) | Easy | — |
+| 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
 | 3505 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](./3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | Hard | — |
 | 3591 | [3591-check-if-any-element-has-prime-frequency](./3591-check-if-any-element-has-prime-frequency/README.md) | Easy | — |
 | 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
