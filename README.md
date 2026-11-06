@@ -82,6 +82,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -103,6 +104,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +173,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Sliding Window
@@ -178,6 +181,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 |  |
