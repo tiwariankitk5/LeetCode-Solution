@@ -2,7 +2,7 @@
   "leetcode": {
     "easy": 6,
     "hard": 5,
-    "medium": 10,
+    "medium": 11,
     "shas": {
       "0015-3sum": {
         "README.md": "84e5854cd32cb65d06da712e6329d17566651913"
@@ -74,6 +74,6 @@
         "difficulty": "medium"
       }
     },
-    "solved": 21
+    "solved": 22
   }
 }
