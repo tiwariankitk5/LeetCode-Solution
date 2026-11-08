@@ -83,6 +83,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -141,6 +142,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -204,6 +206,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
 |  |
@@ -213,10 +216,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -225,4 +230,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
