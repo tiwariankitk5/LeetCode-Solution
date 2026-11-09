@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 23 |
+| Problems tracked | 24 |
 | Easy | 6 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 6 |
 
 ## Problem Index
+
 
 
 
@@ -49,6 +50,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0030 | [0030-substring-with-concatenation-of-all-words](./0030-substring-with-concatenation-of-all-words/README.md) | Hard | — |
 | 0034 | [0034-find-first-and-last-position-of-element-in-sorted-array](./0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | — |
 | 0042 | [0042-trapping-rain-water](./0042-trapping-rain-water/README.md) | Hard | — |
+| 0047 | [0047-permutations-ii](./0047-permutations-ii/README.md) | Medium | — |
 | 0070 | [0070-climbing-stairs](./0070-climbing-stairs/README.md) | Easy | — |
 | 0076 | [0076-minimum-window-substring](./0076-minimum-window-substring/README.md) | Hard | — |
 | 0131 | [0131-palindrome-partitioning](./0131-palindrome-partitioning/README.md) | Medium | — |
