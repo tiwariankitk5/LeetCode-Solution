@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 24 |
-| Easy | 6 |
+| Problems tracked | 25 |
+| Easy | 7 |
 | Medium | 12 |
 | Hard | 6 |
 
 ## Problem Index
+
 
 
 
@@ -53,6 +54,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0047 | [0047-permutations-ii](./0047-permutations-ii/README.md) | Medium | — |
 | 0070 | [0070-climbing-stairs](./0070-climbing-stairs/README.md) | Easy | — |
 | 0076 | [0076-minimum-window-substring](./0076-minimum-window-substring/README.md) | Hard | — |
+| 0110 | [0110-balanced-binary-tree](./0110-balanced-binary-tree/README.md) | Easy | — |
 | 0131 | [0131-palindrome-partitioning](./0131-palindrome-partitioning/README.md) | Medium | — |
 | 0206 | [0206-reverse-linked-list](./0206-reverse-linked-list/README.md) | Easy | — |
 | 0310 | [0310-minimum-height-trees](./0310-minimum-height-trees/README.md) | Medium | — |
