@@ -232,6 +232,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -259,4 +260,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
