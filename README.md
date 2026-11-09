@@ -86,6 +86,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
@@ -113,6 +114,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -181,6 +183,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
