@@ -87,8 +87,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
@@ -107,52 +107,53 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Tournament Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
@@ -161,13 +162,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -175,27 +176,27 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
@@ -204,74 +205,81 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
