@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 27 |
-| Easy | 7 |
+| Problems tracked | 28 |
+| Easy | 8 |
 | Medium | 14 |
 | Hard | 6 |
 
 ## Problem Index
+
 
 
 
@@ -59,6 +60,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0110 | [0110-balanced-binary-tree](./0110-balanced-binary-tree/README.md) | Easy | — |
 | 0131 | [0131-palindrome-partitioning](./0131-palindrome-partitioning/README.md) | Medium | — |
 | 0206 | [0206-reverse-linked-list](./0206-reverse-linked-list/README.md) | Easy | — |
+| 0232 | [0232-implement-queue-using-stacks](./0232-implement-queue-using-stacks/README.md) | Easy | — |
 | 0310 | [0310-minimum-height-trees](./0310-minimum-height-trees/README.md) | Medium | — |
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
