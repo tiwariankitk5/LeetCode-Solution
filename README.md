@@ -102,6 +102,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
