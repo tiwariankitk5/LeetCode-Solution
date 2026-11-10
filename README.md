@@ -216,6 +216,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,4 +286,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
