@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 25 |
+| Problems tracked | 26 |
 | Easy | 7 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 6 |
 
 ## Problem Index
+
 
 
 
@@ -69,6 +70,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 3505 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](./3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | Hard | — |
 | 3591 | [3591-check-if-any-element-has-prime-frequency](./3591-check-if-any-element-has-prime-frequency/README.md) | Easy | — |
 | 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
+| 3693 | [3693-climbing-stairs-ii](./3693-climbing-stairs-ii/README.md) | Medium | — |
 | 3736 | [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | — |
 
 ## Goals
