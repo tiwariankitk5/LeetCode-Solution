@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 26 |
+| Problems tracked | 27 |
 | Easy | 7 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 6 |
 
 ## Problem Index
+
 
 
 
@@ -64,6 +65,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 0823 | [0823-binary-trees-with-factors](./0823-binary-trees-with-factors/README.md) | Medium | — |
 | 1267 | [1267-count-servers-that-communicate](./1267-count-servers-that-communicate/README.md) | Medium | — |
+| 1305 | [1305-all-elements-in-two-binary-search-trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | — |
 | 1385 | [1385-find-the-distance-value-between-two-arrays](./1385-find-the-distance-value-between-two-arrays/README.md) | Easy | — |
 | 1606 | [1606-find-servers-that-handled-most-number-of-requests](./1606-find-servers-that-handled-most-number-of-requests/README.md) | Hard | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
