@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 30 |
-| Easy | 8 |
-| Medium | 15 |
+| Problems tracked | 32 |
+| Easy | 9 |
+| Medium | 16 |
 | Hard | 7 |
 
 ## Problem Index
+
 
 
 
@@ -57,6 +58,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0034 | [0034-find-first-and-last-position-of-element-in-sorted-array](./0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | — |
 | 0042 | [0042-trapping-rain-water](./0042-trapping-rain-water/README.md) | Hard | — |
 | 0047 | [0047-permutations-ii](./0047-permutations-ii/README.md) | Medium | — |
+| 0061 | [0061-rotate-list](./0061-rotate-list/README.md) | Medium | — |
 | 0070 | [0070-climbing-stairs](./0070-climbing-stairs/README.md) | Easy | — |
 | 0076 | [0076-minimum-window-substring](./0076-minimum-window-substring/README.md) | Hard | — |
 | 0110 | [0110-balanced-binary-tree](./0110-balanced-binary-tree/README.md) | Easy | — |
@@ -74,6 +76,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1606 | [1606-find-servers-that-handled-most-number-of-requests](./1606-find-servers-that-handled-most-number-of-requests/README.md) | Hard | — |
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
+| 3105 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | — |
 | 3505 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](./3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | Hard | — |
 | 3591 | [3591-check-if-any-element-has-prime-frequency](./3591-check-if-any-element-has-prime-frequency/README.md) | Easy | — |
 | 3665 | [3665-twisted-mirror-path-count](./3665-twisted-mirror-path-count/README.md) | Medium | — |
