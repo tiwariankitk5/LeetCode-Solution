@@ -114,6 +114,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -226,6 +227,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
 | Problem Name | Difficulty |
@@ -242,11 +244,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,8 +310,17 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
