@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 33 |
-| Easy | 9 |
+| Problems tracked | 34 |
+| Easy | 10 |
 | Medium | 16 |
 | Hard | 8 |
 
 ## Problem Index
+
 
 
 
@@ -78,6 +79,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
 | 3105 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | — |
+| 3364 | [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/README.md) | Easy | — |
 | 3420 | [3420-count-non-decreasing-subarrays-after-k-operations](./3420-count-non-decreasing-subarrays-after-k-operations/README.md) | Hard | — |
 | 3505 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](./3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | Hard | — |
 | 3591 | [3591-check-if-any-element-has-prime-frequency](./3591-check-if-any-element-has-prime-frequency/README.md) | Easy | — |
