@@ -1,3 +1,4 @@
+
 name: Update LeetCode stats
 
 on:
@@ -13,6 +14,7 @@ on:
 permissions:
   contents: write
 
+# Prevent overlapping stats-update workflows
 concurrency:
   group: update-leetcode-stats
   cancel-in-progress: false
@@ -20,26 +22,62 @@ concurrency:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
-      - name: Recalculate difficulty totals
-        run: python .github/scripts/update_stats.py
-
-      - name: Commit updated statistics
+      - name: Recalculate and safely publish statistics
+        shell: bash
         run: |
-          if git diff --quiet; then
-            echo "Statistics are already up to date."
-            exit 0
-          fi
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md stats.json
-          git commit -m "chore: update LeetCode difficulty statistics"
-          git push
+
+          MAX_RETRIES=8
+
+          for attempt in $(seq 1 "$MAX_RETRIES"); do
+            echo "Attempt $attempt of $MAX_RETRIES"
+
+            # Fetch the latest main branch
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Recalculate from the latest committed solutions
+            python .github/scripts/update_stats.py
+
+            # Stage generated statistics
+            git add README.md stats.json
+
+            # Exit successfully when nothing changed
+            if git diff --cached --quiet; then
+              echo "Statistics are already up to date."
+              exit 0
+            fi
+
+            # Commit updated statistics
+            git commit -m "chore: update LeetCode difficulty statistics"
+
+            # Push; retry if main changed during execution
+            if git push origin HEAD:main; then
+              echo "Statistics updated successfully!"
+              exit 0
+            fi
+
+            if [ "$attempt" -eq "$MAX_RETRIES" ]; then
+              echo "Failed after $MAX_RETRIES attempts."
+              exit 1
+            fi
+
+            echo "Push failed. Refreshing branch and retrying..."
+            sleep 2
+          done
