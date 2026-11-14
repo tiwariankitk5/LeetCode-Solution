@@ -130,6 +130,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -278,10 +279,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Topological Sort
 |  |
 | ------- |
