@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 34 |
+| Problems tracked | 35 |
 | Easy | 10 |
 | Medium | 16 |
-| Hard | 8 |
+| Hard | 9 |
 
 ## Problem Index
+
 
 
 
@@ -87,6 +88,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 3693 | [3693-climbing-stairs-ii](./3693-climbing-stairs-ii/README.md) | Medium | — |
 | 3736 | [3736-minimum-moves-to-equal-array-elements-iii](./3736-minimum-moves-to-equal-array-elements-iii/README.md) | Easy | — |
 | 3789 | [3789-minimum-cost-to-acquire-required-items](./3789-minimum-cost-to-acquire-required-items/README.md) | Medium | — |
+| 3924 | [3924-minimum-threshold-path-with-limited-heavy-edges](./3924-minimum-threshold-path-with-limited-heavy-edges/README.md) | Hard | — |
 
 ## Goals
 
