@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 36 |
+| Problems tracked | 37 |
 | Easy | 11 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 9 |
 
 ## Problem Index
+
 
 
 
@@ -77,6 +78,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1267 | [1267-count-servers-that-communicate](./1267-count-servers-that-communicate/README.md) | Medium | — |
 | 1305 | [1305-all-elements-in-two-binary-search-trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | — |
 | 1385 | [1385-find-the-distance-value-between-two-arrays](./1385-find-the-distance-value-between-two-arrays/README.md) | Easy | — |
+| 1524 | [1524-number-of-sub-arrays-with-odd-sum](./1524-number-of-sub-arrays-with-odd-sum/README.md) | Medium | — |
 | 1606 | [1606-find-servers-that-handled-most-number-of-requests](./1606-find-servers-that-handled-most-number-of-requests/README.md) | Hard | — |
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
