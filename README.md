@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 38 |
+| Problems tracked | 39 |
 | Easy | 12 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 9 |
 
 ## Problem Index
+
 
 
 
@@ -78,6 +79,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 0823 | [0823-binary-trees-with-factors](./0823-binary-trees-with-factors/README.md) | Medium | — |
+| 0951 | [0951-flip-equivalent-binary-trees](./0951-flip-equivalent-binary-trees/README.md) | Medium | — |
 | 1267 | [1267-count-servers-that-communicate](./1267-count-servers-that-communicate/README.md) | Medium | — |
 | 1305 | [1305-all-elements-in-two-binary-search-trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | — |
 | 1385 | [1385-find-the-distance-value-between-two-arrays](./1385-find-the-distance-value-between-two-arrays/README.md) | Easy | — |
