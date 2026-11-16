@@ -292,11 +292,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
