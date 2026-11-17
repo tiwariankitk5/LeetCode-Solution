@@ -135,6 +135,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -176,6 +177,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0061-rotate-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +269,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Function
 |  |
 | ------- |
@@ -352,6 +355,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 |  |
@@ -370,4 +374,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
