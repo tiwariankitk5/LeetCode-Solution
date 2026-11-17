@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 42 |
+| Problems tracked | 43 |
 | Easy | 12 |
 | Medium | 20 |
-| Hard | 10 |
+| Hard | 11 |
 
 ## Problem Index
+
 
 
 
@@ -68,6 +69,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | # | Problem | Difficulty | Topics |
 |---:|---|---|---|
 | 0003 | [0003-longest-substring-without-repeating-characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | — |
+| 0010 | [0010-regular-expression-matching](./0010-regular-expression-matching/README.md) | Hard | — |
 | 0015 | [0015-3sum](./0015-3sum/README.md) | Medium | — |
 | 0023 | [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists/README.md) | Hard | — |
 | 0030 | [0030-substring-with-concatenation-of-all-words](./0030-substring-with-concatenation-of-all-words/README.md) | Hard | — |
