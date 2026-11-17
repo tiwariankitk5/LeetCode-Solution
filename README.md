@@ -202,6 +202,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
@@ -230,6 +231,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -238,6 +240,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
