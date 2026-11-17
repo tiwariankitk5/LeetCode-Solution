@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 40 |
+| Problems tracked | 41 |
 | Easy | 12 |
 | Medium | 19 |
-| Hard | 9 |
+| Hard | 10 |
 
 ## Problem Index
+
 
 
 
@@ -91,6 +92,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2243 | [2243-calculate-digit-sum-of-a-string](./2243-calculate-digit-sum-of-a-string/README.md) | Easy | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
+| 2911 | [2911-minimum-changes-to-make-k-semi-palindromes](./2911-minimum-changes-to-make-k-semi-palindromes/README.md) | Hard | — |
 | 2980 | [2980-check-if-bitwise-or-has-trailing-zeros](./2980-check-if-bitwise-or-has-trailing-zeros/README.md) | Easy | — |
 | 3105 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | — |
 | 3364 | [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/README.md) | Easy | — |
