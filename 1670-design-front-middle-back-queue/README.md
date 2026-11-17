@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-front-middle-back-queue">1767. Design Front Middle Back Queue</a></h2><h3>Medium</h3><hr><p>Design a queue that supports <code>push</code> and <code>pop</code> operations in the front, middle, and back.</p>
+<h2><a href="https://leetcode.com/problems/design-front-middle-back-queue">1670. Design Front Middle Back Queue</a></h2><h3>Medium</h3><hr><p>Design a queue that supports <code>push</code> and <code>pop</code> operations in the front, middle, and back.</p>
 
 <p>Implement the <code>FrontMiddleBackQueue</code> class:</p>
 
