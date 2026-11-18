@@ -173,6 +173,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
@@ -235,6 +236,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -256,6 +258,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
+| [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
