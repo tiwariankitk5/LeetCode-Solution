@@ -140,6 +140,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
@@ -294,12 +295,14 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
