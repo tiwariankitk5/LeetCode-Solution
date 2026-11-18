@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 44 |
+| Problems tracked | 45 |
 | Easy | 12 |
-| Medium | 21 |
+| Medium | 22 |
 | Hard | 11 |
 
 ## Problem Index
+
 
 
 
@@ -91,6 +92,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0310 | [0310-minimum-height-trees](./0310-minimum-height-trees/README.md) | Medium | — |
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
+| 0503 | [0503-next-greater-element-ii](./0503-next-greater-element-ii/README.md) | Medium | — |
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 0823 | [0823-binary-trees-with-factors](./0823-binary-trees-with-factors/README.md) | Medium | — |
 | 0951 | [0951-flip-equivalent-binary-trees](./0951-flip-equivalent-binary-trees/README.md) | Medium | — |
