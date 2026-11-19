@@ -155,6 +155,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -188,6 +189,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Segment Tree
 | Problem Name | Difficulty |
