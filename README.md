@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 48 |
+| Problems tracked | 49 |
 | Easy | 12 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 11 |
 
 ## Problem Index
+
 
 
 
@@ -111,6 +112,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1524 | [1524-number-of-sub-arrays-with-odd-sum](./1524-number-of-sub-arrays-with-odd-sum/README.md) | Medium | — |
 | 1606 | [1606-find-servers-that-handled-most-number-of-requests](./1606-find-servers-that-handled-most-number-of-requests/README.md) | Hard | — |
 | 1670 | [1670-design-front-middle-back-queue](./1670-design-front-middle-back-queue/README.md) | Medium | — |
+| 1823 | [1823-find-the-winner-of-the-circular-game](./1823-find-the-winner-of-the-circular-game/README.md) | Medium | — |
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2243 | [2243-calculate-digit-sum-of-a-string](./2243-calculate-digit-sum-of-a-string/README.md) | Easy | — |
 | 2567 | [2567-minimum-score-by-changing-two-elements](./2567-minimum-score-by-changing-two-elements/README.md) | Medium | — |
