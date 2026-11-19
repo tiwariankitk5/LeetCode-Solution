@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 46 |
+| Problems tracked | 47 |
 | Easy | 12 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 11 |
 
 ## Problem Index
+
 
 
 
@@ -108,6 +109,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 1670 | [1670-design-front-middle-back-queue](./1670-design-front-middle-back-queue/README.md) | Medium | — |
 | 1944 | [1944-number-of-visible-people-in-a-queue](./1944-number-of-visible-people-in-a-queue/README.md) | Hard | — |
 | 2243 | [2243-calculate-digit-sum-of-a-string](./2243-calculate-digit-sum-of-a-string/README.md) | Easy | — |
+| 2567 | [2567-minimum-score-by-changing-two-elements](./2567-minimum-score-by-changing-two-elements/README.md) | Medium | — |
 | 2747 | [2747-count-zero-request-servers](./2747-count-zero-request-servers/README.md) | Medium | — |
 | 2911 | [2911-minimum-changes-to-make-k-semi-palindromes](./2911-minimum-changes-to-make-k-semi-palindromes/README.md) | Hard | — |
 | 2914 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | — |
