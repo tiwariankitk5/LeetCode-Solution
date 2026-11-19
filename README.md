@@ -160,6 +160,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
@@ -250,6 +251,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -260,6 +262,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -396,6 +400,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
