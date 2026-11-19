@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 47 |
+| Problems tracked | 48 |
 | Easy | 12 |
-| Medium | 24 |
+| Medium | 25 |
 | Hard | 11 |
 
 ## Problem Index
+
 
 
 
@@ -101,6 +102,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0556 | [0556-next-greater-element-iii](./0556-next-greater-element-iii/README.md) | Medium | — |
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
 | 0823 | [0823-binary-trees-with-factors](./0823-binary-trees-with-factors/README.md) | Medium | — |
+| 0894 | [0894-all-possible-full-binary-trees](./0894-all-possible-full-binary-trees/README.md) | Medium | — |
 | 0951 | [0951-flip-equivalent-binary-trees](./0951-flip-equivalent-binary-trees/README.md) | Medium | — |
 | 1267 | [1267-count-servers-that-communicate](./1267-count-servers-that-communicate/README.md) | Medium | — |
 | 1305 | [1305-all-elements-in-two-binary-search-trees](./1305-all-elements-in-two-binary-search-trees/README.md) | Medium | — |
