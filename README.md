@@ -228,6 +228,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
+| [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -255,10 +256,12 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +373,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
@@ -377,6 +381,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
