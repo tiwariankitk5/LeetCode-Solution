@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 49 |
+| Problems tracked | 50 |
 | Easy | 12 |
 | Medium | 26 |
-| Hard | 11 |
+| Hard | 12 |
 
 ## Problem Index
+
 
 
 
@@ -121,6 +122,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 2911 | [2911-minimum-changes-to-make-k-semi-palindromes](./2911-minimum-changes-to-make-k-semi-palindromes/README.md) | Hard | — |
 | 2914 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | Medium | — |
 | 2980 | [2980-check-if-bitwise-or-has-trailing-zeros](./2980-check-if-bitwise-or-has-trailing-zeros/README.md) | Easy | — |
+| 3041 | [3041-maximize-consecutive-elements-in-an-array-after-modification](./3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Hard | — |
 | 3105 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | — |
 | 3364 | [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/README.md) | Easy | — |
 | 3372 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](./3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/README.md) | Medium | — |
