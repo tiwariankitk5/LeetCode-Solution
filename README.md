@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 51 |
+| Problems tracked | 52 |
 | Easy | 12 |
 | Medium | 26 |
-| Hard | 13 |
+| Hard | 14 |
 
 ## Problem Index
+
 
 
 
@@ -106,6 +107,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0310 | [0310-minimum-height-trees](./0310-minimum-height-trees/README.md) | Medium | — |
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
+| 0480 | [0480-sliding-window-median](./0480-sliding-window-median/README.md) | Hard | — |
 | 0503 | [0503-next-greater-element-ii](./0503-next-greater-element-ii/README.md) | Medium | — |
 | 0556 | [0556-next-greater-element-iii](./0556-next-greater-element-iii/README.md) | Medium | — |
 | 0705 | [0705-design-hashset](./0705-design-hashset/README.md) | Easy | — |
