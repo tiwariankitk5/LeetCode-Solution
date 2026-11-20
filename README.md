@@ -147,8 +147,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
@@ -167,6 +167,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -176,14 +177,14 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
@@ -191,8 +192,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -201,35 +202,36 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Tournament Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
@@ -238,17 +240,18 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -260,20 +263,20 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
@@ -283,13 +286,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
@@ -298,8 +301,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
@@ -307,42 +310,42 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -350,85 +353,85 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0110-balanced-binary-tree](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
