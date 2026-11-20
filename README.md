@@ -283,6 +283,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0010-regular-expression-matching](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0010-regular-expression-matching/) | Hard |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0126-word-ladder-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -292,12 +293,14 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0047-permutations-ii) |
+| [0126-word-ladder-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0076-minimum-window-substring/) | Hard |
+| [0126-word-ladder-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0126-word-ladder-ii/) | Hard |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [2747-count-zero-request-servers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/2747-count-zero-request-servers) |
@@ -358,6 +361,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0126-word-ladder-ii/) | Hard |
 | [0310-minimum-height-trees](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0310-minimum-height-trees) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
@@ -437,4 +441,8 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
