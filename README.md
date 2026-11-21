@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 52 |
+| Problems tracked | 53 |
 | Easy | 12 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 14 |
 
 ## Problem Index
+
 
 
 
@@ -131,6 +132,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 2980 | [2980-check-if-bitwise-or-has-trailing-zeros](./2980-check-if-bitwise-or-has-trailing-zeros/README.md) | Easy | — |
 | 3041 | [3041-maximize-consecutive-elements-in-an-array-after-modification](./3041-maximize-consecutive-elements-in-an-array-after-modification/README.md) | Hard | — |
 | 3105 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | Easy | — |
+| 3331 | [3331-find-subtree-sizes-after-changes](./3331-find-subtree-sizes-after-changes/README.md) | Medium | — |
 | 3364 | [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/README.md) | Easy | — |
 | 3372 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](./3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/README.md) | Medium | — |
 | 3420 | [3420-count-non-decreasing-subarrays-after-k-operations](./3420-count-non-decreasing-subarrays-after-k-operations/README.md) | Hard | — |
