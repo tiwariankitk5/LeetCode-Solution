@@ -4,7 +4,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 ## About
 
-- **Language:** Java
+- **Language:** Java , Python
 - **Platform:** [LeetCode](https://leetcode.com/u/tiwariankit5/)
 - **GitHub:** [tiwariankitk5](https://github.com/tiwariankitk5)
 - **Repository:** [LeetCode-Solution](https://github.com/tiwariankitk5/LeetCode-Solution)
