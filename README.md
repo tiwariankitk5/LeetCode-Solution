@@ -172,6 +172,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0823-binary-trees-with-factors) |
 | [1267-count-servers-that-communicate](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -271,6 +272,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0556-next-greater-element-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -336,6 +338,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0705-design-hashset](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/0705-design-hashset/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -449,6 +452,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Doubly-Linked List
@@ -458,6 +462,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwariankitk5/LeetCode-Solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/tiwariankitk5/LeetCode-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Bidirectional Search
 | Problem Name | Difficulty |
