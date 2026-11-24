@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 12,
+    "easy": 13,
     "hard": 14,
     "medium": 28,
     "shas": {
@@ -142,6 +142,6 @@
         "difficulty": "medium"
       }
     },
-    "solved": 54
+    "solved": 55
   }
 }

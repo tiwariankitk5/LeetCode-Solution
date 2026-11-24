@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 54 |
-| Easy | 12 |
+| Problems tracked | 55 |
+| Easy | 13 |
 | Medium | 28 |
 | Hard | 14 |
 
 ## Problem Index
+
 
 
 
@@ -140,6 +141,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 3331 | [3331-find-subtree-sizes-after-changes](./3331-find-subtree-sizes-after-changes/README.md) | Medium | — |
 | 3364 | [3364-minimum-positive-sum-subarray](./3364-minimum-positive-sum-subarray/README.md) | Easy | — |
 | 3372 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](./3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/README.md) | Medium | — |
+| 3411 | [3411-maximum-subarray-with-equal-products](./3411-maximum-subarray-with-equal-products/README.md) | Easy | — |
 | 3420 | [3420-count-non-decreasing-subarrays-after-k-operations](./3420-count-non-decreasing-subarrays-after-k-operations/README.md) | Hard | — |
 | 3505 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](./3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | Hard | — |
 | 3591 | [3591-check-if-any-element-has-prime-frequency](./3591-check-if-any-element-has-prime-frequency/README.md) | Easy | — |
