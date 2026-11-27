@@ -13,12 +13,13 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 
 | Metric | Current |
 |---|---:|
-| Problems tracked | 55 |
+| Problems tracked | 56 |
 | Easy | 13 |
 | Medium | 28 |
-| Hard | 14 |
+| Hard | 15 |
 
 ## Problem Index
+
 
 
 
@@ -113,6 +114,7 @@ My Java DSA practice repository. I solve LeetCode problems to strengthen data st
 | 0206 | [0206-reverse-linked-list](./0206-reverse-linked-list/README.md) | Easy | — |
 | 0232 | [0232-implement-queue-using-stacks](./0232-implement-queue-using-stacks/README.md) | Easy | — |
 | 0310 | [0310-minimum-height-trees](./0310-minimum-height-trees/README.md) | Medium | — |
+| 0407 | [0407-trapping-rain-water-ii](./0407-trapping-rain-water-ii/README.md) | Hard | — |
 | 0453 | [0453-minimum-moves-to-equal-array-elements](./0453-minimum-moves-to-equal-array-elements/README.md) | Medium | — |
 | 0462 | [0462-minimum-moves-to-equal-array-elements-ii](./0462-minimum-moves-to-equal-array-elements-ii/README.md) | Medium | — |
 | 0480 | [0480-sliding-window-median](./0480-sliding-window-median/README.md) | Hard | — |
